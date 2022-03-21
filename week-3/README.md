@@ -1,6 +1,6 @@
 # Week 3: (Unity)
 
-![ButtonHero demo video](https://github.com/mlk525/fast-fun/blob/main/week-3/ButtonHero%20Trial.mp4)
+[![ButtonHero Demo](https://github.com/mlk525/fast-fun/blob/main/week-3/BH%20Demo%20Screencap.jpg)](https://github.com/mlk525/fast-fun/blob/main/week-3/ButtonHero%20Trial.mp4)
 
 ## Description
 I've always been a fan of classic arcade games, so I decided to try and recreate one of my favorites, the popular music rhythm video game series [*Guitar Hero*](https://en.wikipedia.org/wiki/Guitar_Hero). The main objective of the game is to score points by accurately hitting keys corresponding to 3-dimensional falling notes of four colors on four strings (much like the original game, pictured below).
