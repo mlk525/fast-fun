@@ -33,8 +33,9 @@ I then added a potentiometer to the cardboard of the "guitar" to test out the fu
 By threading the wires for the buttons through the holes I had made earlier, I was able to wire everything up to the Arduino on the reverse side of the cardboard.
 
 <p align="center">
-  <img width="300" src="https://github.com/mlk525/fast-fun/blob/main/week-6/circuit.jpg">
+  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-6/circuit.jpg">
 </p>
 
 ## Challenges/Discoveries
-* A
+* I am going to try to work on my projects in the ITP shop or the Tandon MakerSpace, considering the limited resources I have available when working exclusively at home. The buttons were very difficult to wire with tape and a glue gun, and even attaching the makeshift covers to the buttons proved way harder than it should have. Having access to a soldering iron and a wider selection of adhesives would have made a huge difference.
+* While I like the feel of the buttons compared to the contacts, I worry that the sound will be too distracting for a rhythm game. The whammy bar test seems successful, and I plan on factoring it into my future plans for this controller.
