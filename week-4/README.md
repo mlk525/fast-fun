@@ -35,3 +35,4 @@ I mounted the breadboard on the back of the cardboard cutout, and attached the a
 ## Challenges/Discoveries
 * As I mentioned above, the PBR can was not a good conductor, owing to the protective coating covering the insides and outsides of the aluminum can. This issue was fixed by startiving over with an entirely aluminum container.
 * I tested the control without adding any debounce code, but discovered that due to the nature of the game, a keyboard debounce was not required for the controller.
+* I initially had trouble connecting the Arduino as a USB HID device, but following the advice in the slides as well as in [this](https://github.com/arduino/ArduinoCore-samd/releases/tag/1.8.2) thread helped me resolve the issue.
