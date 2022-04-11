@@ -26,11 +26,12 @@ The ideal contacts would flex with the fabric of the glove, so using the materia
 
 kljklkm
 
-<p float="center">
-  <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/fronthand.jpg" width="400" />
-  <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/backhand.jpg" width="400" /> 
+<p align="center">
+  <p float="left">
+    <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/fronthand.jpg" width="500" />
+    <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/backhand.jpg" width="500" /> 
+  </p>
 </p>
-
 
 I then added a potentiometer to the cardboard of the "guitar" to test out the functionality of a dial-like add-on to mimic a tremolo arm (or "whammy bar").
 
