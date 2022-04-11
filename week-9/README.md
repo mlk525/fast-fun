@@ -1,41 +1,42 @@
-# Week 6: (Updated Prototypes)
+# Week 7: (Next Iteration of Controller) Air Guitar Hero
 
 [![ButtonHero Demo](https://github.com/mlk525/fast-fun/blob/main/week-3/BH%20Demo%20Screencap.jpg)](https://github.com/mlk525/fast-fun/blob/main/week-3/)
 Click the screencap to see documentation for the Unity game prototype these controllers are meant for.
 
 ## Description
-I wanted to improve my guitar controller, and I had the idea to switch from aluminum contacts to actual buttons.
+As I discussed during the prototype questions session, I wanted my next controller iteration to be a wearable controller to simulate the act of playing "air guitar".
 
 <p align="center">
-  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-6/naked_buttons.jpg">
+  <img width="400" src="https://iheartlocalmusic.com/wp-content/uploads/2019/06/eDSC06587.jpg">
 </p>
 
-After attaching the buttons to my first prototype, I made makeshift covers and glue-gunned them onto the buttons.
+Maybe not quite as enthusiastically as that guy.
 
-<p align="center">
-  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-6/buttons.jpg">
-</p>
+I started with a winter glove I already had and the twisted wires I salvaged from Prof. Dominic's collection. I hand-stitched the wires to the glove (making sure not to sew the glove shut by filling it with stationery), with one wire for each finger (each "button") and a wire connecting to the palm for the ground connection.
 
 <p align="center">
-  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-6/buttons_side.jpg">
+  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-9/wire_attach.jpg">
 </p>
+
+The ideal contacts would flex with the fabric of the glove, so using the materials generously provided by Prof. Dominic, I loosely stitched a large piece of conductive fabric to the glove's palm, and smaller squares to the tops of each finger. I decided where to sew these contacts after "play testing" the game with just a glove. I marked the areas where my fingers touched my palm, and after doing the same with a couple of friends, marked out an average area of contact for each finger and the palm. The placements aren't perfect, but by testing each "finger-down" connection with a multimeter, I was reasonably satisfied to move forward.
+
+<p align="center">
+  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-9/fabric_attach.jpg">
+</p>
+
+kljklkm
+
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/fronthand.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/backhand.jpg" style="width:100%">
+  </div>
+</div>
+
 
 I then added a potentiometer to the cardboard of the "guitar" to test out the functionality of a dial-like add-on to mimic a tremolo arm (or "whammy bar").
 
-<p align="center">
-  <img width="300" src="https://github.com/mlk525/fast-fun/blob/main/week-6/dial.jpg">
-</p>
-
-<p align="center">
-  <img width="300" src="https://github.com/mlk525/fast-fun/blob/main/week-6/dial_side.jpg">
-</p>
-
-By threading the wires for the buttons through the holes I had made earlier, I was able to wire everything up to the Arduino on the reverse side of the cardboard.
-
-<p align="center">
-  <img width="400" src="https://github.com/mlk525/fast-fun/blob/main/week-6/circuit.jpg">
-</p>
-
 ## Challenges/Discoveries
-* I am going to try to work on my projects in the ITP shop or the Tandon MakerSpace, considering the limited resources I have available when working exclusively at home. The buttons were very difficult to wire with tape and a glue gun, and even attaching the makeshift covers to the buttons proved way harder than it should have. Having access to a soldering iron and a wider selection of adhesives would have made a huge difference.
-* While I like the feel of the buttons compared to the contacts, I worry that the sound will be too distracting for a rhythm game. The whammy bar test seems successful, and I plan on factoring it into my future plans for this controller.
+* I am g
