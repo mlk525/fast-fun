@@ -24,7 +24,7 @@ The ideal contacts would flex with the fabric of the glove, so using the materia
   <img width="600" src="https://github.com/mlk525/fast-fun/blob/main/week-9/fabric_attach.jpg">
 </p>
 
-kljklkm
+The completed glove, though definitely very prototype-y in aesthetic, had exactly the kind of play-feel I was aiming for. I only conducted brief play testing, but it became evident that frequent guitar and air guitar players adapted to the controller much faster than people with little to no experience with the real life instrument. The connections aren't exactly rock solid, but for a quick prototype constructed with no manufacturing machines (or sewing machines) of any kind, it held up much better than I expected it to.
 
 <p align="center">
   <p float="left">
@@ -33,7 +33,10 @@ kljklkm
   </p>
 </p>
 
-I then added a potentiometer to the cardboard of the "guitar" to test out the functionality of a dial-like add-on to mimic a tremolo arm (or "whammy bar").
+I'm hoping to make the next iteration of this controller wireless, but my main priority is adding a strumming mechanic. I've decided on attempting to use the accelerometer sensor of the LSM6DS3 module on the board to detect strumming, but as for how each glove (the design will require two gloves) will be wired to each other, I'm yet to see what works best. Direct wiring is not necessarily a bad option, demonstrated by existing controllers for popular consoles that use wired, two-handed controllers. Since these designs will be prototypes, I'm also not sure how I will securely attach a breadboard to the back of a glove. Another option is continuing to use only one glove, but requiring a different motion for the accelerometer to register strumming.
 
 ## Challenges/Discoveries
-* I am g
+* I was unable to use the conductive thread, because the eye of the sewing needle I have on hand is not big enough to thread it; The conductive thread is also hard to stitch through the conductive fabric.
+* The wire attached to the ground patch on the palm keeps coming lose, even after the application of duct tape. I'm not sure how to fix this short of hot glue on the fabric, which isn't an ideal solution either.
+* The wires connected to the tops of the fingers are a bit too stiff to allow full flexibility; my ideal glove design would involve finger caps connected by flexible plastic (or some soft material) to a fingerless glove, but I'm not sure how to achieve this.
+* One type of conductive fabric (the one I used for the palm) is considerably stiffer than the other.
