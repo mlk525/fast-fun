@@ -26,9 +26,9 @@ The ideal contacts would flex with the fabric of the glove, so using the materia
 
 kljklkm
 
-<p float="left">
-  <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/fabric_attach.jpg" width="100" />
-  <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/fabric_attach.jpg" width="100" /> 
+<p float="center">
+  <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/fronthand.jpg" width="400" />
+  <img src="https://github.com/mlk525/fast-fun/blob/main/week-9/backhand.jpg" width="400" /> 
 </p>
 
 
