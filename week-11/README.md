@@ -12,5 +12,5 @@ Ideally, this would be a PC-mobile combined game, but for player convenience mob
 The main information being communicated is the player's angle of rotation, their speed (forward or backward), and any commands given to the Curiosity rover. All of these will be communicated through OSC from the Arduino to the game running on the mobile phone (through separate OSC messages maybe?). If a PC is involved, the main game would be hosted on it with the phone only in use for the rover excursions.
 
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="/network-map.jpg">
 </p>
